@@ -47,6 +47,16 @@ h1 {
     margin-bottom: 0.5em;
 }
 
+/* Navbar styles with dropdown toggle */
+nav {
+    position: absolute;
+    background-color: #fafafa;
+    width: 100%;
+    left: 0;
+    padding: 0 1rem;
+    display: none;
+}
+
 /* Main content */
 main {
     background-color: gold;

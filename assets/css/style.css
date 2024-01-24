@@ -92,17 +92,15 @@ main {
     width: 100%;
 }
 
-#cover-text {
-    background-color: fuchsia;
-    position: absolute;
-    min-height: 200px;
-    opacity: 0.5;
-    padding-top: 50px;
+#welcome {
     font-family: 'Dancing Script', cursive;
-}
-
-#cover-text-text {
-    color: #fafafa;
+    text-align: center;
+    width: 100%;
+    background-color: #fafafa;
+    bottom: 10px;
+    position: relative;
+    color: #685F74;
+    padding: 25px 0;
 }
 
 /* Footer */

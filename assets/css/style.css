@@ -1,5 +1,5 @@
 /* Google fonts import */
-  @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
 
 /* Asterisk wildcard selector to override default styles added by the browser */
 * {
@@ -24,6 +24,9 @@ header {
     position: fixed;
     z-index: 99;
     width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
 }
 
 header a {
@@ -43,7 +46,7 @@ h1 {
     font-family: 'Open Sans', sans-serif;
 }
 
-#menu > li {
+#menu>li {
     margin-bottom: 0.5em;
 }
 
@@ -55,6 +58,20 @@ nav {
     left: 0;
     padding: 0 1rem;
     display: none;
+    top: 100%;
+}
+
+/* Nav toggle */
+#nav-toggle:checked~nav {
+    display: block;
+}
+
+#nav-toggle {
+    display: none;
+}
+
+.nav-toggle-label {
+    font-size: 2rem;
 }
 
 /* Main content */

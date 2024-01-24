@@ -1,6 +1,9 @@
 /* Google fonts import */
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
 
+/* Icon library */
+
+
 /* Asterisk wildcard selector to override default styles added by the browser */
 * {
     padding: 0;
@@ -81,10 +84,12 @@ main {
     margin-top: 38.4px;
 }
 
-.hero-image {
-    background-image: url(../images/tjuvkil-beach-trift-mobile.jpg);
-    background-repeat: no-repeat;
+/* Hero section */
+#hero {
+    background: url(../images/tjuvkil-beach-trift-mobile.jpg);
     background-size: cover;
+    height: 600px;
+    width: 100%;
 }
 
 /* Footer */
@@ -127,9 +132,10 @@ footer {
 
     }
 
-    .hero-image {
-        background-image: url(../images/tjuvkil-beach-trift.jpg);
+    #hero {
+        background: url(../images/tjuvkil-beach-people.jpg);
         background-repeat: no-repeat;
+        background-size: cover;
     }
 }
 

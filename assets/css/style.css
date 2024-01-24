@@ -79,6 +79,7 @@ main {
     background-color: gold;
     /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
+    margin-top: 38.4px;
 }
 
 /* Footer */

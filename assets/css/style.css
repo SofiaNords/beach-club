@@ -36,6 +36,17 @@ h1 {
     letter-spacing: 2px;
 }
 
+#menu {
+    font-size: 110%;
+    letter-spacing: 4px;
+    list-style-type: none;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#menu > li {
+    margin-bottom: 0.5em;
+}
+
 /* Main content */
 main {
     background-color: gold;

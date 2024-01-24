@@ -26,8 +26,14 @@ header {
     width: 100%;
 }
 
+header a {
+    text-decoration: none;
+    color: inherit;
+}
+
 h1 {
     font-family: 'Dancing Script', cursive;
+    letter-spacing: 2px;
 }
 
 /* Main content */

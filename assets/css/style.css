@@ -24,7 +24,7 @@ header {
     position: fixed;
     z-index: 99;
     width: 100%;
-    height: 75px;
+    height: 60px;
     display: flex;
     justify-content: space-between;
     align-items: baseline;
@@ -81,7 +81,7 @@ nav {
 main {
     /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
-    margin-top: 50px;
+    margin-top: 60px;
 }
 
 /* Hero section */
@@ -92,10 +92,23 @@ main {
     width: 100%;
 }
 
+#cover-text {
+    background-color: fuchsia;
+    position: absolute;
+    min-height: 200px;
+    opacity: 0.5;
+    padding-top: 50px;
+    font-family: 'Dancing Script', cursive;
+}
+
+#cover-text-text {
+    color: #fafafa;
+}
+
 /* Footer */
 footer {
     background-color: #fafafa;
-    height: 75px;
+    height: 60px;
 }
 
 #social-networks {
@@ -120,6 +133,7 @@ footer {
     header {
         display: flex;
         flex-direction: row;
+        height: 75px;
     }
 
     #logo {
@@ -161,23 +175,27 @@ footer {
         background-repeat: no-repeat;
         background-size: cover;
     }
-}
 
-/* Media query; laptops and larger (992px and up) */
-@media screen and (min-width: 992px) {
-
-    #logo {
-        font-size: 220%;
+    /* Footer */
+    footer {
+        background-color: #fafafa;
+        height: 75px;
     }
 
-    nav {
-        width: fit-content;
-        padding-right: 1rem;
-        z-index: 99;
-        display: flex;
-        position: relative;
-        top: 0%;
-        max-height: 40px;
-    }
+    /* Media query; laptops and larger (992px and up) */
+    @media screen and (min-width: 992px) {
 
-    /* Header - kom ihåg att ändra hover pseudo inställningar */
+        #logo {
+            font-size: 220%;
+        }
+
+        nav {
+            width: fit-content;
+            padding-right: 1rem;
+            z-index: 99;
+            display: flex;
+            position: relative;
+            top: 0%;
+            max-height: 40px;
+        }
+        /* Header - kom ihåg att ändra hover pseudo inställningar */

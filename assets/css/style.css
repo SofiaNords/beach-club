@@ -19,7 +19,11 @@ body {
 
 /* Header */
 header {
-    background-color: aqua;
+    background-color: #fafafa;
+    padding: 0 1rem;
+    position: fixed;
+    z-index: 99;
+    width: 100%;
 }
 
 h1 {

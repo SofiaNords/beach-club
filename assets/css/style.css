@@ -76,10 +76,15 @@ nav {
 
 /* Main content */
 main {
-    background-color: gold;
     /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
     margin-top: 38.4px;
+}
+
+.hero-image {
+    background-image: url(../images/tjuvkil-beach-trift-mobile.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 /* Footer */
@@ -119,5 +124,14 @@ footer {
     /* Main content */
     main {
         margin-top: 75px;
+
+    }
+
+    .hero-image {
+        background-image: url(../images/tjuvkil-beach-trift.jpg);
+        background-repeat: no-repeat;
     }
 }
+
+/* Media query; laptops and larger (992px and up) */
+/* Header - kom ihåg att ändra hover pseudo inställningar */

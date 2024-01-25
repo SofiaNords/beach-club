@@ -180,6 +180,9 @@ footer {
         display: flex;
         flex-direction: row;
         height: 75px;
+        max-width: 1180px;
+        margin: 0 auto;
+        position: relative;
     }
 
     #logo {
@@ -212,7 +215,7 @@ footer {
 
     /* Main content */
     main {
-        margin-top: 75px;
+        margin-top: 0;
 
     }
 
@@ -254,5 +257,5 @@ footer {
                 top: 0%;
                 max-height: 40px;
             }
-
+    
             /* Header - kom ihåg att ändra hover pseudo inställningar */

@@ -216,7 +216,9 @@ footer {
     /* Main content */
     main {
         margin-top: 0;
-
+        max-width: 1180px;
+        margin: 0 auto;
+        position: relative;
     }
 
     #hero {
@@ -259,5 +261,16 @@ footer {
         position: relative;
         top: 0%;
         max-height: 40px;
+    }
+
+    /* Footer */
+    footer {
+        max-width: 1180px;
+        margin: 0 auto;
+        display: flex;
+    }
+
+    #social-networks {
+       
     }
 }

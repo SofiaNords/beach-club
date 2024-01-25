@@ -217,9 +217,12 @@ footer {
     }
 
     #hero {
-        background: url(../images/tjuvkil-beach-people.jpg);
+        background: url(../images/tjuvkil-beach-people.webp);
         background-repeat: no-repeat;
         background-size: cover;
+        max-width: 1180px;
+        margin: 0 auto;
+        height: 600px;
     }
 
     /* News & Event and About section in index.html page */
@@ -235,6 +238,7 @@ footer {
         }
 
         /* Media query; laptops and larger (992px and up) */
+
         @media screen and (min-width: 992px) {
 
             #logo {

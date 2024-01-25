@@ -102,14 +102,6 @@ main {
     margin-top: 60px;
 }
 
-/* Hero section */
-#hero {
-    background: url(../images/tjuvkil-beach-trift-mobile.webp);
-    background-size: cover;
-    height: 400px;
-    width: 100%;
-}
-
 #welcome {
     font-family: 'Dancing Script', cursive;
     text-align: center;
@@ -165,6 +157,19 @@ footer {
 .social-icon {
     font-size: 25px;
     color: #685F74;
+}
+
+/* Media query; mobile devices (max-width 600px) */
+@media screen and (max-width: 600px) {
+
+    /* Hero section */
+    #hero {
+        background: url(../images/tjuvkil-beach-trift-mobile.webp);
+        background-size: cover;
+        height: 400px;
+        width: 100%;
+    }
+
 }
 
 /* Media query; tablets and larger (768px and up) */

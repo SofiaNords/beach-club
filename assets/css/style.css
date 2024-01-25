@@ -104,9 +104,10 @@ main {
     padding: 25px 0;
 }
 
-/* News & Event section in index.html page */
-#news-flash {
+/* News & Event and About section in index.html page */
+#News-flash-about {
     text-align: center;
+
 }
 
 #maypole {
@@ -185,27 +186,32 @@ footer {
         background-size: cover;
     }
 
-    /* Footer */
-    footer {
-        background-color: #fafafa;
-        height: 75px;
-    }
+    /* News & Event and About section in index.html page */
+    #News-flash-about {
+        display: flex;
+        
 
-    /* Media query; laptops and larger (992px and up) */
-    @media screen and (min-width: 992px) {
-
-        #logo {
-            font-size: 220%;
+        /* Footer */
+        footer {
+            background-color: #fafafa;
+            height: 75px;
         }
 
-        nav {
-            width: fit-content;
-            padding-right: 1rem;
-            z-index: 99;
-            display: flex;
-            position: relative;
-            top: 0%;
-            max-height: 40px;
-        }
+        /* Media query; laptops and larger (992px and up) */
+        @media screen and (min-width: 992px) {
 
-        /* Header - kom ihåg att ändra hover pseudo inställningar */
+            #logo {
+                font-size: 220%;
+            }
+
+            nav {
+                width: fit-content;
+                padding-right: 1rem;
+                z-index: 99;
+                display: flex;
+                position: relative;
+                top: 0%;
+                max-height: 40px;
+            }
+
+            /* Header - kom ihåg att ändra hover pseudo inställningar */

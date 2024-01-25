@@ -86,7 +86,7 @@ main {
 
 /* Hero section */
 #hero {
-    background: url(../images/tjuvkil-beach-trift-mobile.jpg);
+    background: url(../images/tjuvkil-beach-trift-mobile.webp.jpg);
     background-size: cover;
     height: 400px;
     width: 100%;
@@ -196,4 +196,5 @@ footer {
             top: 0%;
             max-height: 40px;
         }
+
         /* Header - kom ihåg att ändra hover pseudo inställningar */

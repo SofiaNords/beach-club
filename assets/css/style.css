@@ -233,29 +233,31 @@ footer {
         display: flex;
         flex-direction: row;
 
+    }
 
-        /* Footer */
-        footer {
-            background-color: #fafafa;
-            height: 75px;
-        }
+    /* Footer */
+    footer {
+        background-color: #fafafa;
+        height: 75px;
+    }
 
-        /* Media query; laptops and larger (992px and up) */
+    /* Media query; laptops and larger (992px and up) */
 
-        @media screen and (min-width: 992px) {
+}
 
-            #logo {
-                font-size: 220%;
-            }
+@media screen and (min-width: 992px) {
 
-            nav {
-                width: fit-content;
-                padding-right: 1rem;
-                z-index: 99;
-                display: flex;
-                position: relative;
-                top: 0%;
-                max-height: 40px;
-            }
-    
-            /* Header - kom ihåg att ändra hover pseudo inställningar */
+    #logo {
+        font-size: 220%;
+    }
+
+    nav {
+        width: fit-content;
+        padding-right: 1rem;
+        z-index: 99;
+        display: flex;
+        position: relative;
+        top: 0%;
+        max-height: 40px;
+    }
+}

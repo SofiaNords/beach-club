@@ -159,8 +159,8 @@ footer {
     color: #685F74;
 }
 
-/* Media query; mobile devices (max-width 600px) */
-@media screen and (max-width: 600px) {
+/* Media query; mobile devices (max-width 768px) */
+@media screen and (max-width: 768px) {
 
     /* Hero section */
     #hero {

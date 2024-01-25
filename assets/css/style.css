@@ -15,6 +15,7 @@ body {
     flex-direction: column;
     /* Generic project styles */
     color: #685F74;
+    font-family: 'Open Sans', sans-serif;
 }
 
 /* Header */
@@ -101,6 +102,16 @@ main {
     position: relative;
     color: #685F74;
     padding: 25px 0;
+}
+
+/* News & Event section in index.html page */
+#news-flash {
+    text-align: center;
+}
+
+#maypole {
+    height: 200px;
+    width: 100%;
 }
 
 /* Footer */

@@ -18,6 +18,11 @@ body {
     font-family: 'Open Sans', sans-serif;
 }
 
+h3, h4 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
 /* Header */
 header {
     background-color: #fafafa;
@@ -109,19 +114,24 @@ main {
     text-align: center;
     display: flex;
     flex-direction: column;
+    background-color: rgb(245, 242, 242);
+    padding: 25px;
 }
 
 #news-flash {
     flex-basis: 100%;
+    padding: 10px;
 }
 
 #about {
     flex-basis: 100%;
+    padding: 10px;
 }
 
 #maypole {
     height: 200px;
     width: 300px;
+    padding: 10px;
 }
 
 /* Footer */

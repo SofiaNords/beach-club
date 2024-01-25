@@ -107,12 +107,21 @@ main {
 /* News & Event and About section in index.html page */
 #News-flash-about {
     text-align: center;
+    display: flex;
+    flex-direction: column;
+}
 
+#news-flash {
+    flex-basis: 100%;
+}
+
+#about {
+    flex-basis: 100%;
 }
 
 #maypole {
     height: 200px;
-    width: 100%;
+    width: 300px;
 }
 
 /* Footer */
@@ -189,9 +198,10 @@ footer {
     /* News & Event and About section in index.html page */
     #News-flash-about {
         display: flex;
-        
+        flex-direction: row;
 
-        /* Footer */
+
+    /* Footer */
         footer {
             background-color: #fafafa;
             height: 75px;

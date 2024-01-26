@@ -150,7 +150,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 ### Known Bugs
 
--   On the mobile device Galaxy Fold the width of the body turns out to be 280px while the page is 335px. I investigated this and got this from Tutor Assictance which seems to be the reason:
+-   On the mobile device Galaxy Fold the width of the body turn out to be 280px while the page is 335px. I investigated this and got this from Tutor Assictance which seems to be the reason:
 
     https://stackoverflow.com/questions/64886134/what-is-chromes-galaxy-fold-responsive-view-based-on
 

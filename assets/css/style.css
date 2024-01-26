@@ -14,7 +14,7 @@ body {
     display: flex;
     flex-direction: column;
     /* Generic project styles */
-    color: #685F74;
+    color: #3574B0;
     font-family: 'Open Sans', sans-serif;
 }
 
@@ -27,8 +27,6 @@ h4 {
 a:link {
     text-decoration: none;
     font-family: 'Open Sans', sans-serif;
-    color: #685F74;
-
 }
 
 a:hover {
@@ -109,7 +107,6 @@ main {
     background-color: #fafafa;
     bottom: 10px;
     position: relative;
-    color: #685F74;
     padding: 25px 0;
 }
 
@@ -156,7 +153,7 @@ footer {
 
 .social-icon {
     font-size: 25px;
-    color: #685F74;
+    color: #3574B0
 }
 
 /* Media query; mobile devices (max-width 768px) */

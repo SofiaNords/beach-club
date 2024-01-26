@@ -243,10 +243,11 @@ footer {
         height: 75px;
     }
 
-    /* Media query; laptops and larger (992px and up) */
-
+    #social-networks {
+        padding: 25px 150px;
+    }
 }
-
+/* Media query; laptops and larger (992px and up) */
 @media screen and (min-width: 992px) {
 
     #logo {

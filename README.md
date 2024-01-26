@@ -24,9 +24,9 @@ This is Tjuvkil’s Bathing Association’s website. It is intended for its memb
         3. As a Returning Visitor, I want to find community links.
 
     -   #### Frequent User Goals
-        1. As a Frequent User, I want to check to see if there are any newly added challenges or hackathons.
-        2. As a Frequent User, I want to check to see if there are any new blog posts.
-        3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or organisation.
+        1. As a Frequent User, I want to check to see if there are any newly added events to participate in.
+        2. As a Frequent User, I want to check to see if there are any news about the bathing areas.
+        3. As a Frequent User, I want to be able to ask questions and make suggestions to the board.
 
 -   ### Design
     -   #### Colour Scheme

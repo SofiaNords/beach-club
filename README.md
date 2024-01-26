@@ -1,8 +1,8 @@
 <h1 align="center">Tjuvkil Beach</h1>
 
-[View the live project here.](https://codeinstitute.net)
+[View the live project here.](https://sofianords.github.io/beach-club/)
 
-This is the main marketing website for Code Institute. It is designed to be responsibe and accessible on a range of devices, making it easy to navigate for potential students and partners.
+This is Tjuvkil’s Bathing Association’s website. It is intended for its members, potential members, and others who want to find information about the association. The board of the association can easily reach out with news and information about upcoming events on this easy-to-navigate site that works on a range of devices.
 
 <h2 align="center"><img src="https://i.ibb.co/TYvTXz1/Example-CI.png"></h2>
 
@@ -12,13 +12,14 @@ This is the main marketing website for Code Institute. It is designed to be resp
 
     -   #### First Time Visitor Goals
 
-        1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
-        2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
-        3. As a First Time Visitor, I want to look for testimonials to understand what their users think of them and see if they are trusted. I also want to locate their social media links to see their followings on social media to determine how trusted and known they are.
+        1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the association.
+        2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find information.
+        3. As a First Time Visitor, I would like to find links to social media to learn more about the community in the association and get an idea of what it’s like to be a member.
+        4. As a First Time Visitor, I want to know how I become a member of the association, what it means to be a member and what is expected of me as a member if I become one.
 
     -   #### Returning Visitor Goals
 
-        1. As a Returning Visitor, I want to find information about coding challenges.
+        1. As a Returning Visitor, I want to find information about news and events in the association.
         2. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
         3. As a Returning Visitor, I want to find community links.
 

@@ -135,6 +135,19 @@ main {
     padding: 10px;
 }
 
+.button {
+    color:#3574B0;
+    border-color:#3574B0;
+    font-size: 16px;
+    font-weight: bold;
+    transition-duration: 0.4s;
+}
+
+.button:hover {
+    background-color: #3574B0;
+    color: #fafafa;
+}
+
 /* Footer */
 footer {
     background-color: #fafafa;

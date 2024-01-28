@@ -246,6 +246,10 @@ footer {
         height: 600px;
     }
 
+    #welcome {
+        font-size: 120%;
+    }
+
     /* News & Event and About section in index.html page */
     #News-flash-about {
         display: flex;
@@ -289,6 +293,10 @@ footer {
         position: relative;
         top: 0%;
         max-height: 40px;
+    }
+
+    #welcome {
+        font-size: 150%;
     }
 
     /* Footer */

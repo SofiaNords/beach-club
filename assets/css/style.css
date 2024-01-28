@@ -112,7 +112,7 @@ main {
 
 /* News & Event and About section in index.html page */
 #News-flash-about {
-    text-align: center;
+    text-align: justify;
     display: flex;
     flex-direction: column;
     background-color: rgb(245, 242, 242);

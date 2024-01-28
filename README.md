@@ -50,6 +50,8 @@ This is Tjuvkil’s Bathing Association’s website. It is intended for its memb
 
 -   Interactive elements
 
+- Buttons with hover feature
+
 ## Technologies Used
 
 ### Languages Used

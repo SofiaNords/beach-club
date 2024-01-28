@@ -203,7 +203,8 @@ footer {
         height: 75px;
         max-width: 1180px;
         margin: 0 auto;
-        position: relative;
+        left: 0;
+        right: 0;
     }
 
     #logo {

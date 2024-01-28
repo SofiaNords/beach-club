@@ -124,10 +124,12 @@ main {
     padding: 10px;
 }
 
-#about {
-    flex-basis: 100%;
+#bridge {
+    height: 300px;
+    width: 200px;
     padding: 10px;
 }
+
 
 #maypole {
     height: 200px;
@@ -135,9 +137,14 @@ main {
     padding: 10px;
 }
 
+#about {
+    flex-basis: 100%;
+    padding: 10px;
+}
+
 .button {
-    color:#3574B0;
-    border-color:#3574B0;
+    color: #3574B0;
+    border-color: #3574B0;
     font-size: 16px;
     font-weight: bold;
     transition-duration: 0.4s;
@@ -267,6 +274,7 @@ footer {
         padding: 25px 150px;
     }
 }
+
 /* Media query; laptops and larger (992px and up) */
 @media screen and (min-width: 992px) {
 
@@ -293,6 +301,6 @@ footer {
 
     #social-networks {
         width: 1180px;
-        padding: 25px 200px 
+        padding: 25px 200px
     }
 }

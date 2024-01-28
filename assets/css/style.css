@@ -35,7 +35,7 @@ a:hover {
 
 /* Header */
 header {
-    background-color: #fafafa;
+    background-color: #3574B0;
     padding: 0.5rem 1rem;
     position: fixed;
     z-index: 99;
@@ -44,6 +44,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: baseline;
+    color: #fafafa;
 }
 
 header a {
@@ -72,7 +73,7 @@ h1 {
 /* Navbar styles with dropdown toggle */
 nav {
     position: absolute;
-    background-color: #fafafa;
+    background-color: #3574B0;
     width: 100%;
     left: 0;
     padding: 0 1rem;
@@ -156,8 +157,13 @@ main {
 
 /* Footer */
 footer {
-    background-color: #fafafa;
+    background-color:#3574B0;
     height: 60px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    left: 0;
+    right: 0;
 }
 
 #social-networks {
@@ -172,7 +178,7 @@ footer {
 
 .social-icon {
     font-size: 25px;
-    color: #3574B0
+    color: #fafafa;
 }
 
 /* Media query; mobile devices (max-width 768px) */
@@ -269,7 +275,6 @@ footer {
 
     /* Footer */
     footer {
-        background-color: #fafafa;
         height: 75px;
     }
 

@@ -245,8 +245,9 @@ footer {
         flex-direction: row;
         padding-left: 50px;
         padding-right: 50px;
+        font-size: 120%;
     }
-    
+
     #news-flash {
         margin-right: 25px;
     }

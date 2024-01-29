@@ -95,6 +95,14 @@ nav {
     font-size: 2rem;
 }
 
+/* Hero section */
+#hero {
+    background: url(../images/tjuvkil-beach-trift-mobile.webp);
+    background-size: cover;
+    height: 400px;
+    width: 100%;
+}
+
 /* Main content */
 main {
     /* Make main element take up any surplus space to push footer down */
@@ -134,9 +142,9 @@ main {
 
 
 #maypole {
-    height: 200px;
-    width: 300px;
-    padding: 10px
+    height: auto;
+    width: 100%;
+    padding: 10px;
     text-align: center;
     display: block;
     margin: 0 auto;
@@ -165,7 +173,7 @@ main {
 
 /* Footer */
 footer {
-    background-color:#3574B0;
+    background-color: #3574B0;
     height: 60px;
     position: fixed;
     bottom: 0;
@@ -187,18 +195,6 @@ footer {
 .social-icon {
     font-size: 25px;
     color: #fafafa;
-}
-
-/* Media query; mobile devices (max-width 768px) */
-@media screen and (max-width: 768px) {
-
-    /* Hero section */
-    #hero {
-        background: url(../images/tjuvkil-beach-trift-mobile.webp);
-        background-size: cover;
-        height: 400px;
-        width: 100%;
-    }
 }
 
 /* Media query; tablets and larger (768px and up) */

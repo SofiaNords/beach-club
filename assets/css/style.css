@@ -22,6 +22,7 @@ h3,
 h4 {
     padding-top: 10px;
     padding-bottom: 10px;
+    text-align: center;
 }
 
 a:link {
@@ -135,7 +136,10 @@ main {
 #maypole {
     height: 200px;
     width: 300px;
-    padding: 10px;
+    padding: 10px
+    text-align: center;
+    display: block;
+    margin: 0 auto;
 }
 
 #about {
@@ -149,6 +153,9 @@ main {
     font-size: 16px;
     font-weight: bold;
     transition-duration: 0.4s;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
 }
 
 .button:hover {

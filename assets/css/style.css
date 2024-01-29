@@ -171,6 +171,19 @@ main {
     color: #fafafa;
 }
 
+/* Contact form */
+#contact {
+    margin-top: 60px;
+    background-color:#3574B0;
+    color: #fafafa;
+    max-width: 300px;
+}
+
+.contact-form {
+    display: block;
+   
+}
+
 /* Footer */
 footer {
     background-color: #3574B0;
@@ -279,6 +292,14 @@ footer {
         margin-left: 25px;
     }
 
+    /* Contact form */
+    .contact-form {
+        margin-top: 75px;
+        max-width: 1180px;
+        margin: 0 auto;
+        right: 0;
+        left: 0;
+    }
 
     /* Footer */
     footer {

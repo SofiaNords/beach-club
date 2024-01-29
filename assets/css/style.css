@@ -173,15 +173,23 @@ main {
 
 /* Contact form */
 #contact {
-    margin-top: 60px;
     background-color:#3574B0;
     color: #fafafa;
-    max-width: 300px;
+    padding: 25px 25px;
+    margin: auto;
 }
 
 .contact-form {
     display: block;
-   
+    margin-bottom: 10px;
+}
+
+#become-member {
+    display: inline-block;
+}
+
+#description {
+    height: 200px;
 }
 
 /* Footer */

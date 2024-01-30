@@ -50,7 +50,7 @@ This is Tjuvkil’s Bathing Association’s website. It is intended for its memb
 
     The first thing the user encounters is a large picture of Tjuvkil Beach on a beautiful summer day when the beach is at its best. The image should convey a feeling of wanting to be there.
 
-    <img src="assets/images/Feature-first-picture.png">
+    <img src="assets/images/feature-first-picture.png">
 - The navbar
 
     The navbar is clear and consistent with the design. It indicates that you are on the home page by highlighting the home page. If you switch to another page, such as Contact, that page will be highlighted instead. 

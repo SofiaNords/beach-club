@@ -74,7 +74,7 @@ h1 {
 /* Navbar styles with dropdown toggle */
 nav {
     position: absolute;
-    background-color:#3574B0;
+    background-color: #3574B0;
     width: 100%;
     left: 0;
     padding: 0 1rem;
@@ -177,15 +177,16 @@ main {
 }
 
 #contact {
-    background-color:#3574B0;
+    background-color: #3574B0;
     color: #fafafa;
     padding: 25px 25px;
     margin: auto;
+    position: relative;
 }
 
 .contact-form {
     display: block;
-    margin-bottom: 10px;
+    margin-bottom: 25px;
 }
 
 #become-member {
@@ -194,6 +195,12 @@ main {
 
 #description {
     height: 200px;
+}
+
+#submit {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
 /* News & Event page */
@@ -206,6 +213,7 @@ main {
     padding: 25px;
     margin: 60px 0;
 }
+
 /* Footer */
 footer {
     background-color: #3574B0;
@@ -314,9 +322,9 @@ footer {
         margin-left: 25px;
     }
 
-    /* Contact form */
+    /* Contact form-page */
     #contact {
-        transform: scale(2);
+        transform: scale(1.5);
     }
 
     .contact-form {
@@ -325,6 +333,7 @@ footer {
         margin: 0 auto;
         right: 0;
         left: 0;
+        margin-bottom: 25px;
     }
 
     /* Footer */
@@ -363,7 +372,7 @@ footer {
         align-items: center;
     }
 
-    /* Contact form */
+    /* Contact form page */
     #contact {
         transform: scale(1);
     }

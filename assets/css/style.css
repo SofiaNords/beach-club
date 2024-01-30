@@ -363,6 +363,11 @@ footer {
         align-items: center;
     }
 
+    /* Contact form */
+    #contact {
+        transform: scale(1);
+    }
+
     /* Footer */
     footer {
         max-width: 1180px;

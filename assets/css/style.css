@@ -172,6 +172,10 @@ main {
 }
 
 /* Contact form page */
+#contact-body {
+    background-color: rgb(245, 242, 242);
+}
+
 #contact {
     background-color:#3574B0;
     color: #fafafa;
@@ -311,6 +315,10 @@ footer {
     }
 
     /* Contact form */
+    #contact {
+        transform: scale(2);
+    }
+
     .contact-form {
         margin-top: 75px;
         max-width: 1180px;

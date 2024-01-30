@@ -53,6 +53,10 @@ header a {
     color: inherit;
 }
 
+.active {
+    border-bottom: 1px solid #fafafa;
+}
+
 h1 {
     font-family: 'Dancing Script', cursive;
     letter-spacing: 2px;
@@ -206,6 +210,7 @@ main {
     background-color: #fafafa;
     padding: 5px 5px;
     border-radius: 3px;
+    font-weight: bold;
 }
 #submit:hover  {
     background-color: #3574B0;

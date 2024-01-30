@@ -201,8 +201,15 @@ main {
     position: absolute;
     left: 50%;
     transform: translate(-50%, -50%);
+    color:#3574B0;
+    background-color: #fafafa;
+    padding: 5px 5px;
+    border-radius: 3px;
 }
-
+#submit:hover  {
+    background-color: #3574B0;
+    color: #fafafa;
+}
 /* News & Event page */
 
 #news-events-page {

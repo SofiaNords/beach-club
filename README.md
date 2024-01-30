@@ -53,7 +53,9 @@ This is Tjuvkil’s Bathing Association’s website. It is intended for its memb
 
 -   Interactive elements
 
-- Buttons with hover feature
+-   Buttons with hover feature
+
+-   Contact-form with required input such as name and     email
 
 ## Technologies Used
 

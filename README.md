@@ -32,10 +32,7 @@ This is Tjuvkil’s Bathing Association’s website. It is intended for its memb
     -   #### Colour Scheme
         -   The two main colours used are (#03574B) cyan-blue and rgb(245, 242, 242) representing a very light shade of gray. I captured the colors from the hero image using Paint. 
     -   #### Typography
-        -   ?
-        
-        
-         The Montserrat font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Montserrat is a clean font used frequently in programming, so it is both attractive and appropriate.
+        -   The ?  font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Montserrat is a clean font used frequently in programming, so it is both attractive and appropriate.
     -   #### Imagery
         -   Imagery is important. The large, background hero image is designed to be striking and catch the user's attention. It also has a modern, energetic aesthetic.
 
@@ -49,8 +46,31 @@ This is Tjuvkil’s Bathing Association’s website. It is intended for its memb
 
 ## Features
 
-- Navbar
-- Footer, social media icons
+- The landing page 
+
+    The first thing the user encounters is a large picture of Tjuvkil Beach on a beautiful summer day when the beach is at its best. The image should convey a feeling of wanting to be there.
+
+    <img src="assets/images/Feature-first-picture.png">
+- The navbar
+
+    The navbar is clear and consistent with the design. It indicates that you are on the home page by highlighting the home page. If you switch to another page, such as Contact, that page will be highlighted instead. 
+
+- Content first page
+
+    Just below the large picture of Tjuvkil Beach, there is a brief summary of current news and events, as well as links to the News & Events page so that you can quickly navigate and read the entire article. Next to it, you will find an explanation, “About Tjuvkil Beach”, which describes the association’s purpose and goals.
+
+    <img src="assets/images/feature-second-picture.png">
+
+    If the user clicks on the “Become a member” link, they will be taken to the “Contact” page where they can write a message and check the box to become a member.
+
+- Footer and social media icons
+
+   The footer is designed to be consistent with the overall look and feel of the site, and it provides easy access to social media links. The footer is fixed in place, so users will always see the links as they navigate the site. 
+
+    <img src="assets/images/feature-third-picture.png">
+
+
+
 - Links
 - Form   
 Responsive on all device sizes

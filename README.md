@@ -57,9 +57,7 @@ Responsive on all device sizes
 
 -   Interactive elements
 
--   Buttons with hover feature
-
--   Contact-form with required input such as name and     email
+- Buttons with hover feature
 
 ## Technologies Used
 

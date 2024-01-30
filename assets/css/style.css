@@ -206,16 +206,18 @@ main {
     position: absolute;
     left: 50%;
     transform: translate(-50%, -50%);
-    color:#3574B0;
+    color: #3574B0;
     background-color: #fafafa;
     padding: 5px 5px;
     border-radius: 3px;
     font-weight: bold;
 }
-#submit:hover  {
+
+#submit:hover {
     background-color: #3574B0;
     color: #fafafa;
 }
+
 /* News & Event page */
 
 #news-events-page {
@@ -223,9 +225,21 @@ main {
     display: flex;
     flex-direction: column;
     background-color: rgb(245, 242, 242);
-    padding: 25px 50px;
+    padding: 10px 25px;
     margin: 60px auto;
     max-width: 1180px;
+}
+
+.contact-us {
+    color: #3574B0;
+    border-color: #3574B0;
+    font-size: 100%;
+    font-weight: bold;
+    transition-duration: 0.4s;
+}
+.contact-us:hover {
+    background-color: #3574B0;
+    color: #fafafa;
 }
 
 /* Footer */
@@ -334,6 +348,14 @@ footer {
 
     #about {
         margin-left: 25px;
+    }
+
+    /* News & Event page */
+    #news-events-page {
+        height: 1180px;
+        padding: 25px 50px;
+        font-size: 120%;
+
     }
 
     /* Contact form-page */

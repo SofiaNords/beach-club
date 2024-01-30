@@ -49,7 +49,11 @@ This is Tjuvkil’s Bathing Association’s website. It is intended for its memb
 
 ## Features
 
--   Responsive on all device sizes
+- Navbar
+- Footer, social media icons
+- Links
+- Form   
+Responsive on all device sizes
 
 -   Interactive elements
 

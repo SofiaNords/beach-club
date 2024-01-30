@@ -219,6 +219,9 @@ main {
     background-color: rgb(245, 242, 242);
     padding: 25px;
     margin: 60px 0;
+    max-width: 1180px;
+    margin: 0 auto;
+    position: relative;
 }
 
 /* Footer */

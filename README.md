@@ -2,7 +2,7 @@
 
 [View the live project here.](https://sofianords.github.io/beach-club/)
 
-This is Tjuvkil’s Bathing Association website. It is intended for its members, potential members, and others who want to find information about the association. The board of the association can easily reach out with news and information about upcoming events on this easy-to-navigate site that works on a range of devices.
+This is the website of Tjuvkil’s Bathing Association. It is intended for its members, potential members, and others who want to find information about the association. The board of the association can easily reach out with news and information about upcoming events on this easy-to-navigate site that works on a range of devices.
 
 <h2 align="center"><img src="assets/images/am-i-responsive.png"></h2>
 
@@ -193,11 +193,11 @@ The Lighthouse report from Google Chrome DevTools showed very good results for P
 
         1. The navigation bar clearly highlights the "Contact" Page.
         2. Here they can fill out the form on the page.
-        3. The footer contains links to the organisations Facebook, TYoutube and Instagram page.
+        3. The footer contains links to the organisations Facebook, Youtube and Instagram page.
         4. Whichever link they click, it will be open up in a new tab to ensure the user can easily get back to the website.
 
      3. As a Returning Visitor, I want to find community links.
-        1. The Facebook Page can be found at the footer of every page and will open a new tab for the user and more information can be found on the Facebook page.
+        1. The social media links can be found at the footer of every page and will open a new tab for the user and more information can be found on the social media pages.
      
 
 -   #### Frequent User Goals
@@ -208,7 +208,7 @@ The Lighthouse report from Google Chrome DevTools showed very good results for P
 
      3. As a Frequent User, I want to be able to ask questions and make suggestions to the board.
 
-        1. The user can easily click the "Contact"-link in the header and ask questrions in the form and submit 
+        1. The user can easily click the "Contact"-link in the header and ask questions in the form and submit. 
 
 ### Further Testing
 
@@ -216,12 +216,6 @@ The Lighthouse report from Google Chrome DevTools showed very good results for P
 -   The website was viewed on a variety of devices such as Desktop, Laptop, iPhone SE, iPhone 11 & Galaxy Fold.
 -   A large amount of testing was done to ensure that all pages were linking correctly.
 
-
-### Known Bugs
-
--   On the mobile device Galaxy Fold the width of the body turn out to be 280px while the page is 335px. I investigated this and got this from Tutor Assictance which seems to be the reason:
-
-    https://stackoverflow.com/questions/64886134/what-is-chromes-galaxy-fold-responsive-view-based-on
 
 
 ## Deployment

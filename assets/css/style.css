@@ -237,6 +237,7 @@ main {
     font-weight: bold;
     transition-duration: 0.4s;
 }
+
 .contact-us:hover {
     background-color: #3574B0;
     color: #fafafa;

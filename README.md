@@ -115,7 +115,19 @@ This is Tjuvkil’s Bathing Association website. It is intended for its members,
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
+#### First Page
+
 <img src="assets/images/html-checker.png">
+
+#### News & Events Page
+
+<img src="assets/images/html-checker-news-events.png">
+
+#### Contact Page
+
+<img src="assets/images/html-checker-contact.png">
+
+#### CSS file
 
 <img src="assets/images/css-checker.png">
 

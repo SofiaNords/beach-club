@@ -37,7 +37,7 @@ This is Tjuvkil’s Bathing Association website. It is intended for its members,
             
 
     -   #### Typography
-        -   The Open Sans font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. For the logo and welcome text, I used The Dancing Script Font and Cursive as the fallback font.
+        -   The ‘Open Sans’ font is the main font used throughout the whole website with ‘Sans Serif’ as the fallback font in case for any reason the font isn't being imported into the site correctly. For the logo and welcome text, I used The ‘Dancing Script’ Font and ‘Cursive’ as the fallback font.
 
             <img src="assets/images/typography.png">
 
@@ -97,29 +97,55 @@ This is Tjuvkil’s Bathing Association website. It is intended for its members,
 
 ### Frameworks, Libraries & Programs Used
 
-1. [Hover.css:](https://ianlunn.github.io/Hover/)
-    - Hover.css was used on the Social Media icons in the footer to add the float transition while being hovered over.
 1. [Google Fonts:](https://fonts.google.com/)
-    - Google fonts were used to import the 'Titillium Web' font into the style.css file which is used on all pages throughout the project.
+    - Google fonts were used to import the ‘Dancing Script’ font into the style.css file.
 1. [Font Awesome:](https://fontawesome.com/)
-    - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
-1. [jQuery:](https://jquery.com/)
-    - jQuery came with Bootstrap to make the navbar responsive but was also used for the smooth scroll function in JavaScript.
+    - Font Awesome was used for social media icons and the nav-toggle bar in the header for mobile devices.
 1. [Git](https://git-scm.com/)
     - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 1. [GitHub:](https://github.com/)
     - GitHub is used to store the projects code after being pushed from Git.
-1. [Photoshop:](https://www.adobe.com/ie/products/photoshop.html)
-    - Photoshop was used to create the logo, resizing images and editing photos for the website.
-1. [Balsamiq:](https://balsamiq.com/)
-    - Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
+1. [Adobe Express:](https://new.express.adobe.com/)
+    - Adobe Express was used to resizing images.
+  
+1. [Tinify:](https://tinypng.com/)
+    - Tinify was used to compress and convert the images to .wepb.
 
-## Testing
+## Validator Testing
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
--   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
--   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
+<img src="assets/images/html-checker.png">
+
+<img src="assets/images/css-checker.png">
+
+## Lighthouse Testing
+
+The Lighthouse report from Google Chrome DevTools showed very good results for Performance, Accessibility, SEO and best practises of the site.
+
+#### First Page Desktop
+
+<img src="assets/images/lighthouse-desktop.png">
+
+#### First Page Mobile
+
+<img src="assets/images/lighthouse-mobile.png">
+
+#### News & Events Page Desktop
+
+<img src="assets/images/lighthouse-desktop-news-events.png">
+
+#### News & Events Page Mobile
+
+<img src="assets/images/lighthouse-mobile-news-events.png">
+
+#### Contact Page Desktop
+
+<img src="assets/images/lighthouse-desktop-contact.png">
+
+#### Contact Page Mobile
+
+<img src="assets/images/lighthouse-mobile-contact.png">
 
 ### Testing User Stories from User Experience (UX) Section
 

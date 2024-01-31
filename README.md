@@ -166,7 +166,7 @@ The Lighthouse report from Google Chrome DevTools showed very good results for P
         
         3. Right under the "About-section" at the first page there is a link named "Become a member" which leads to the contact-page where the visitor can check a checkbox to become a member while sending a message.
 
-    3. As a First Time Visitor, I would like to find links to social media to learn more about the community in the association and get an idea of what it’s like to be a member.
+    3. As a First Time Visitor, I would like to find links to      social media to learn more about the community in the association and get an idea of what it’s like to be a member.
         1. The footer on all pages contains links to social media where visitors can read about and view pictures of the association, including movies, as well as the community within it. It’s clear that there’s a strong sense of unity and that everyone helps each other to the best of their ability.
 
 -   #### Returning Visitor Goals
@@ -179,39 +179,31 @@ The Lighthouse report from Google Chrome DevTools showed very good results for P
 
     2. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
 
-        1. The navigation bar clearly highlights the "Contact Us" Page.
-        2. Here they can fill out the form on the page or are told that alternatively they can message the organisation on social media.
-        3. The footer contains links to the organisations Facebook, Twitter and Instagram page as well as the organization's email.
+        1. The navigation bar clearly highlights the "Contact" Page.
+        2. Here they can fill out the form on the page.
+        3. The footer contains links to the organisations Facebook, TYoutube and Instagram page.
         4. Whichever link they click, it will be open up in a new tab to ensure the user can easily get back to the website.
-        5. The email button is set up to automatically open up your email app and autofill there email address in the "To" section.
 
      3. As a Returning Visitor, I want to find community links.
         1. The Facebook Page can be found at the footer of every page and will open a new tab for the user and more information can be found on the Facebook page.
-        2. Alternatively, the user can scroll to the bottom of the Home page to find the Facebook Group redirect card and can easily join by clicking the "Join Now!" button which like any external link, will open in a new tab to ensure they can get back to the website easily.
-        3. If the user is on the "Our Favourites" page they will also be greeted with a call to action button to invite the user to the Facebook group. The user is incentivized as they are told there is a weekly favourite product posted in the group.
+     
 
 -   #### Frequent User Goals
 
-     1. As a Frequent User, I want to check to see if there are any newly added events to participate in.
+     1. As a Frequent User, I want to check to see if there are any news or newly added events to participate in.
 
-        1. The user would already be comfortable with the website layout and can easily click the banner message.
-
-    2. As a Frequent User, I want to check to see if there are any news about the bathing areas.
-
-        1. The user would already be comfortable with the website layout and can easily click the blog link
+        1. The user would already be comfortable with the website layout and can see if there is any new events on the landing page or easily click the "News & Event"-link in the header.
 
      3. As a Frequent User, I want to be able to ask questions and make suggestions to the board.
 
-        1. At the bottom of every page their is a footer which content is consistent throughout all pages.
-        2. To the right hand side of the footer the user can see "Subscribe to our Newsletter" and are prompted to Enter their email address.
-        3. There is a "Submit" button to the right hand side of the input field which is located close to the field and can easily be distinguished.
+        1. The user can easily click the "Contact"-link in the header and ask questrions in the form and submit 
 
 ### Further Testing
 
--   The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
--   The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX.
+-   The Website was tested on Google Chrome, Microsoft Edge and Safari browsers.
+-   The website was viewed on a variety of devices such as Desktop, Laptop, iPhone SE, iPhone 11 & Galaxy Fold.
 -   A large amount of testing was done to ensure that all pages were linking correctly.
--   Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
+
 
 ### Known Bugs
 
@@ -272,24 +264,26 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Code
 
--   The full-screen hero image code came from this [StackOverflow post](https://stackoverflow.com)
-
--   [Bootstrap4](https://getbootstrap.com/docs/4.4/getting-started/introduction/): Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
-
--   [MDN Web Docs](https://developer.mozilla.org/) : For Pattern Validation code. Code was modified to better fit my needs and to match an Irish phone number layout to ensure correct validation. Tutorial Found [Here](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/tel#Pattern_validation)
+-   I was inspired by the "Love Running"-project and used similiar code to my navigation menu.
+    https://sofianords.github.io/love-running/index.html
 
 ### Content
 
 -   All content was written by the developer.
 
--   Psychological properties of colours text in the README.md was found [here](http://www.colour-affects.co.uk/psychological-properties-of-colours)
 
 ### Media
 
--   All Images were created by the developer.
+-   The pictures on the landing page, tjuvkil-beach-people.webp and tjuvkil-beach-trift-mobile.webp, are taken by Tomas Jigfelt
+
+-   The picture of the maypole on the landing page, maypole-mobile.webp, is from https://pixabay.com
+
+- The picture of the midsummer celebration, maypole-tjuvkil.webp, is taken by Sofia Nordström
 
 ### Acknowledgements
 
--   My Mentor for continuous helpful feedback.
+-   My Mentor, Spencer Barriball, for continuous helpful feedback.
 
 -   Tutor support at Code Institute for their support.
+
+- Tomas Jigfelt for letting me use his beutiful pictures.

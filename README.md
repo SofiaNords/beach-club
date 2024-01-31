@@ -2,7 +2,7 @@
 
 [View the live project here.](https://sofianords.github.io/beach-club/)
 
-This is Tjuvkil’s Bathing Association’s website. It is intended for its members, potential members, and others who want to find information about the association. The board of the association can easily reach out with news and information about upcoming events on this easy-to-navigate site that works on a range of devices.
+This is Tjuvkil’s Bathing Association website. It is intended for its members, potential members, and others who want to find information about the association. The board of the association can easily reach out with news and information about upcoming events on this easy-to-navigate site that works on a range of devices.
 
 <h2 align="center"><img src="https://i.ibb.co/TYvTXz1/Example-CI.png"></h2>
 
@@ -10,12 +10,12 @@ This is Tjuvkil’s Bathing Association’s website. It is intended for its memb
 
 -   ### User stories
 
-    -   #### First Time Visitor Goals
+    -   #### First Visitor Goals
 
         1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the association.
         2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find information.
         3. As a First Time Visitor, I would like to find links to social media to learn more about the community in the association and get an idea of what it’s like to be a member.
-        4. As a First Time Visitor, I want to know how I become a member of the association, what it means to be a member and what is expected of me as a member if I become one.
+        4. As a First Time Visitor, I want to know how I can become a member of the association, what it means to be a member, and what is expected of me as a member if I become one.
 
     -   #### Returning Visitor Goals
 
@@ -30,19 +30,19 @@ This is Tjuvkil’s Bathing Association’s website. It is intended for its memb
 
 -   ### Design
     -   #### Colour Scheme
-        -   The two main colours used are (#03574B) cyan-blue and rgb(245, 242, 242) representing a very light shade of gray. I captured the colors from the hero image using Paint. 
+        -   The three main colors used are #03574B (cyan-blue), rgb(245, 242, 242) (representing a very light shade of gray), and #fafafa (white). I captured the blue and gray shade from the hero image using Paint. 
+
+            <img src="assets/images/colour-scheme.png">   <img src="assets/images/logo.png">
+
+            
+
     -   #### Typography
-        -   The ?  font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Montserrat is a clean font used frequently in programming, so it is both attractive and appropriate.
-    -   #### Imagery
-        -   Imagery is important. The large, background hero image is designed to be striking and catch the user's attention. It also has a modern, energetic aesthetic.
+        -   The Open Sans font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. For the logo and welcome text, I used The Dancing Script Font and Cursive as the fallback font.
 
-*   ### Wireframes
+            <img src="assets/images/typography.png">
 
-    -   Home Page Wireframe - [View](https://github.com/)
 
-    -   Mobile Wireframe - [View](https://github.com/)
 
-    -   Contact Us Page Wireframe - [View](https://github.com/)
 
 ## Features
 
@@ -53,31 +53,40 @@ This is Tjuvkil’s Bathing Association’s website. It is intended for its memb
     <img src="assets/images/feature-first-picture.png">
 - The navbar
 
-    The navbar is clear and consistent with the design. It indicates that you are on the home page by highlighting the home page. If you switch to another page, such as Contact, that page will be highlighted instead. 
+    The navbar is clear and consistent with the design. It indicates that you are on the home page by highlighting the home page. If you switch to another page, such as Contact, that page will be highlighted instead.
 
 - Content first page
 
-    Just below the large picture of Tjuvkil Beach, there is a brief summary of current news and events, as well as links to the News & Events page so that you can quickly navigate and read the entire article. Next to it, you will find an explanation, “About Tjuvkil Beach”, which describes the association’s purpose and goals.
+    Just below the large picture of Tjuvkil Beach, there is a brief summary of current news and events, as well as links to the News & Events page so that you can quickly navigate and read the entire article. Next to it, you will find an explanation, ‘About Tjuvkil Beach’, which describes the association's purpose and goals.
 
     <img src="assets/images/feature-second-picture.png">
 
-    If the user clicks on the “Become a member” link, they will be taken to the “Contact” page where they can write a message and check the box to become a member.
+    If the user clicks on the ‘Become a member’ link, they will be taken to the ‘Contact’ page where they can write a message and check the box to become a member.
 
 - Footer and social media icons
 
-   The footer is designed to be consistent with the overall look and feel of the site, and it provides easy access to social media links. The footer is fixed in place, so users will always see the links as they navigate the site. 
+   The footer is designed to be consistent with the overall look and feel of the site, and it provides easy access to social media links. The footer is fixed in place, so users will always see the links as they navigate the site.
 
     <img src="assets/images/feature-third-picture.png">
 
 
+- Link in News & Events page
 
-- Links
-- Form   
-Responsive on all device sizes
+    I have added a link to the ‘Contact’ page in the information text about the Midsummer celebration so that the user can quickly take action to express their interest in helping with the preparations.
 
--   Interactive elements
+    <img src="assets/images/feature-fourth-picture.png">
 
-- Buttons with hover feature
+
+- Contact Form
+
+    On the ‘Contact’ page, there is a contact form where the user can send messages to the association. There is a ‘Become a member’ checkbox available for those who want to become a member. The name and email address fields are mandatory so that the association can provide feedback to the user.
+    
+    <img src="assets/images/feature-fifth-picture.png">
+
+- Other features
+
+    The page is responsive on all devices and has links and buttons with hover features.
+
 
 ## Technologies Used
 

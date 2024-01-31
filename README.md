@@ -4,7 +4,7 @@
 
 This is Tjuvkil’s Bathing Association website. It is intended for its members, potential members, and others who want to find information about the association. The board of the association can easily reach out with news and information about upcoming events on this easy-to-navigate site that works on a range of devices.
 
-<h2 align="center"><img src="https://i.ibb.co/TYvTXz1/Example-CI.png"></h2>
+<h2 align="center"><img src="assets/images/am-i-responsive.png"></h2>
 
 ## User Experience (UX)
 
